@@ -248,6 +248,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.resume {
+				visibility: hidden;
+			}
+
 		}
 
 		@media screen and (max-width: 736px) {
@@ -256,7 +260,14 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.resume {
+				width: 50%;
+			}
+
 		}
+
+	
+		
 
 /* Row */
 
