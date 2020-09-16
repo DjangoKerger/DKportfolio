@@ -261,7 +261,7 @@ input, select, textarea {
 			}
 
 			.resume {
-				width: 50%;
+				visibility: hidden;
 			}
 
 		}
